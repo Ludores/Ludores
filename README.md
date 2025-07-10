@@ -1,33 +1,31 @@
 # 👋 Salut, moi c'est Ludores Bejery
 
-Bienvenue sur mon GitHub ! Je suis un **développeur web** passionné par le **code bien structuré**, lisible et maintenable. Mon objectif est de construire des projets utiles, propres et bien documentés.
+Bienvenue sur mon GitHub ! Je suis un **développeur web** passionné par le **code bien structuré**, lisible et maintenable. J’ai déjà réalisé plusieurs projets pour des clients satisfaits, allant de simples sites vitrines à des applications web complètes.
 
 ## 🧠 Ce que je fais
 
-- 💻 Développement web (HTML, CSS, JavaScript, React, Vue.js)
-- ⚙️ Backend (Node.js, Express)
-- 🎨 Intégration responsive
-- 🌐 API RESTful
-- 🛠️ Projets fullstack en cours
+- 💻 Développement web front-end (HTML, CSS, JavaScript, ReactJS, NextJS, VueJS, NuxtJS)
+- ⚙️ Backend avec Node.js, Express, Nest JS, Php
+- 🎨 Intégration responsive et optimisée mobile
+- 🌐 Conception et consommation d’API REST
+- 🛠️ Création de projets fullstack personnalisés
+
+## 💼 Mes services
+
+- Développement de sites web sur mesure
+- Refonte ou optimisation de sites existants
+- Création de portfolios ou landing pages modernes
+- Intégration responsive et SEO-friendly
+- Assistance technique et maintenance web
 
 ## 🔍 Ce qui m'intéresse
 
-- Écrire du **code clair et bien conservé**
-- Améliorer l’expérience utilisateur
-- Travailler sur des projets open source
-- Apprendre constamment de nouvelles technologies
+- Écrire du **code clair, réutilisable et bien conservé**
+- Améliorer l’expérience utilisateur et la performance
+- Apprendre en continu et partager mes connaissances
+- Participer à des projets open source
 
-## 🚀 Quelques projets
-
-- 🔗 [NomDuProjet1](https://github.com/ton-utilisateur/NomDuProjet1) — Une courte description
-- 🔗 [NomDuProjet2](https://github.com/ton-utilisateur/NomDuProjet2) — Une autre courte description
-
-## 📫 Me contacter
-
-- ✉️ Email : larrysrakoto@gmail.com  
-- 🌍 LinkedIn : [linkedin.com/in/ton-profil](https://linkedin.com/in/ton-profil)
-
----
+## 📫 N'hésitez pas à me contancter
 
 > _"Un code bien conservé et facile à relire, c'est ça un bon code."_  
 > — Ludores Bejery
